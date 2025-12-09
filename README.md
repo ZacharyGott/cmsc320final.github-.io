@@ -4,7 +4,7 @@ _Final Project – CMSC320 (Fall 2025)_
 Zachary Gottlieb, Kehan Bhati, Joseph Jenkins, Jack Perlman, Simon Benarroch, Aidan Ritta
 
 ## Contributions
-Zachary: (A, B, C, F, G, H) Found dataset, completed summary statistics and visualizations. Did the linear regressions for log age-at-sale vs selling price.
+Zachary: (A, B, C, F, G, H) Found dataset, completed summary statistics, and visualizations. Did the linear regressions for log age-at-sale vs selling price.
 <br><br>
 Kehan: (A, F, G, H) Wrote the introduction, formatted the final deliverable, brainstormed for the project idea, and helped with analyzing final results. 
 <br><br>
