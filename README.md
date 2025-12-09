@@ -8,7 +8,7 @@ Zachary: (A, B, C, F, G, H) Found dataset, completed summary statistics, and vis
 <br><br>
 Kehan: (A, F, G, H) Wrote the introduction, formatted the final deliverable, brainstormed for the project idea, and helped with analyzing final results. 
 <br><br>
-Joseph:
+Joseph: (C, E, F) Assisted in data exploration and creating/revising conclusions. Updated and revised ML analysis and conclusions. Created all visualization section and analysis.
 <br><br>
 Jack:
 <br><br>
